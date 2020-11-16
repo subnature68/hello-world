@@ -1,2 +1,2 @@
 # hello-world
-Trying fulfill first tutor on Git-hub
+Trying fulfill the first tutorial on GitHub
